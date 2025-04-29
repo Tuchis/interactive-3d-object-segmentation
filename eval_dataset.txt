@@ -1,0 +1,15 @@
+9663292843 bedroom
+0373d65cce stairwell
+504cf57907 bar
+fb152519ad toilet
+e945643bef conference room
+3928249b53 computer lab
+1d003b07bd ski room
+0d41f3a279 kitchen
+471cc4ba84 storage / basement / garage
+7bc286c1b6 winter garden
+ca0c580422 classroom
+a1d9da703c electrical room
+9460c8889d gym
+64b8886d68 janitors closet
+fb893ffaf3 Game room
